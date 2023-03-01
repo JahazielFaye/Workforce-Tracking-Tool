@@ -22,7 +22,9 @@ To use this application, you'll need to have Node.js and MySQL installed on your
 5. Create a `.env` file in the project directory and set the following environment variables:
 
 DB_HOST=localhost
+
 DB_USER=root
+
 DB_PASSWORD=<your_mysql_password>
 
 
@@ -42,6 +44,11 @@ When you start the application, you'll be presented with a menu of options to ma
 
 Simply follow the prompts to perform the desired action.
 
+
+## Snippet
+
+
+![Screenshot of Weather-Board](./Assets/Snippet.png)
 
 
 Have fun using Workforce-Tracking-Tool! Let us know if you have any feedback or suggestions.
