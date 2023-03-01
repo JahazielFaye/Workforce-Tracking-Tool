@@ -45,11 +45,16 @@ When you start the application, you'll be presented with a menu of options to ma
 Simply follow the prompts to perform the desired action.
 
 
-## Snippet
+## Snippet & Demo
 
 
 ![Screenshot of Weather-Board](./Assets/Snippet.png)
 
 
-Have fun using Workforce-Tracking-Tool! Let us know if you have any feedback or suggestions.
+WALKTHROUGH DEMO VIDEO --->
+
+ https://watch.screencastify.com/v/0GvjWXSodcm5h4MPsxhY    or   https://drive.google.com/file/d/1C_CzB3VchTakEpYZ_wu9H4-gknz9RU6u/view
+
+
+Have fun using Workforce-Tracking-Tool! Let me know if you have any feedback or suggestions. Also if the walkthrough video does not open.
 
