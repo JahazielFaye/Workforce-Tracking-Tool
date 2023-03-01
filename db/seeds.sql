@@ -1,28 +1,29 @@
 -- Insert some sample data into the department table
-INSERT INTO department (department_name)
+INSERT INTO departments (name)
 VALUES
-  ('Engineering'),
-  ('Tech'),
-  ('Legal'),
-  ('Finance'),
-  ('Sales'),
-  ('HR'), 
-  ('Marketing');
+('Sales'),
+('Engineering'),
+('Finance'),
+('Legal'),
+('Human Resources');
   
   
 --Insert some sample data into the role table
 
   INSERT INTO role (title, salary, department_id)
+INSERT INTO roles (title, salary, department_id)
 VALUES
- ('Software Engineer', 40000, 1),
- ('Sales Lead', 160000, 3),
-  ('Salesperson', 130000, 2),
-  ('Recruiter ', 20000, 7),
-  ('Marketer', 30000, 5),
-  ('Attorney', 200000, 6),
-  ('Engineer', 150000, 7),
-  ('Accountant', 160000, 5),
-  ('CEO', 400000, 5);
+('Salesperson', 80000, 1),
+('Sales Lead', 100000, 1),
+('Engineer', 120000, 2),
+('Lead Engineer', 150000, 2),
+('Accountant', 125000, 3),
+('Chief Financial Officer', 300000, 3),
+('Lawyer', 190000, 4),
+('Legal Team Lead', 250000, 4),
+('Human Resources Employee', 80000, 5),
+('Human Resources Director', 100000, 5);
+
 
 -- Insert some sample employees into the employee table
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
