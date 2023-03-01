@@ -1,5 +1,3 @@
-DROP DATABASE IF EXISTS workforceTrackingTool;
-
-CREATE DATABASE workforceTrackingTool;
-
-USE workforceTrackingTool;
+DROP DATABASE IF EXISTS workforce_tracking_tool;
+CREATE DATABASE workforce_tracking_tool;
+USE workforce_tracking_tool;
