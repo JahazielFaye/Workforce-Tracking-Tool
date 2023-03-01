@@ -9,6 +9,9 @@ VALUES
   ('HR'), 
   ('Marketing');
   
+  
+--Insert some sample data into the role table
+
   INSERT INTO role (title, salary, department_id)
 VALUES
  ('Software Engineer', 40000, 1),
