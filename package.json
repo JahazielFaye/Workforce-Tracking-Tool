@@ -1,8 +1,22 @@
 {
+  "name": "workforce-tracking-tool",
+  "version": "1.0.0",
+  "description": "A Command-Line Application from scratch to Manage a Company's Employee Database, using Node.js, Inquirer, and MySQL.",
+  "main": "index.js",
   "dependencies": {
     "console.table": "^0.10.0",
     "dotenv": "^16.0.3",
     "inquirer": "^8.2.4",
     "mysql2": "^3.1.2"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JahazielFaye/Workforce-Tracking-Tool"
+  },
+  "homepage": "https://github.com/JahazielFaye/Workforce-Tracking-Tool#readme"
 }

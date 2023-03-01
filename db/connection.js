@@ -5,7 +5,7 @@ const db = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     password: '778877Hazel*',
-    database: 'Workforce-Tracking-Tool'
+    database: 'workforce_tracking_tool'
 });
 
 module.exports = db;
